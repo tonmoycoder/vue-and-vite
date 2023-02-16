@@ -80,24 +80,4 @@
   <!-- Hero/Intro Slider End -->
 </template>
 
-<script>
-// var heroSlider = new Swiper(".hero-slider.swiper-container", {
-//   loop: true,
-//   speed: 1000,
-//   effect: "fade",
-//   autoplay: {
-//     delay: 7000,
-//     disableOnInteraction: false,
-//   },
-//   pagination: {
-//     el: ".swiper-pagination",
-//     clickable: true,
-//   },
-
-//   // Navigation arrows
-//   navigation: {
-//     nextEl: ".swiper-button-next",
-//     prevEl: ".swiper-button-prev",
-//   },
-// });
-</script>
+<script></script>

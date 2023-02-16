@@ -101,7 +101,7 @@
                         <a class="p-0" href="shop-left-sidebar.html"
                           ><img
                             class="img-responsive w-100"
-                            src="assets/images/banner/3.jpg"
+                            src="../../assets/images/banner/3.jpg"
                             alt=""
                         /></a>
                       </li>
@@ -109,7 +109,7 @@
                         <a class="p-0" href="shop-left-sidebar.html"
                           ><img
                             class="img-responsive w-100"
-                            src="assets/images/banner/4.jpg"
+                            src="../../assets/images/banner/4.jpg"
                             alt=""
                         /></a>
                       </li>
